@@ -1,0 +1,5 @@
+# these are the model params
+model,g_hat_fi,tau_r,tau_si,tau_0,tau_v_plus,tau_v1_minus,tau_v2_minus,tau_w_plus,tau_w_minus,u_c,u_v,u_csi
+BR,4,33.33, 29,12.5,3.33,1250,19.6,870,41,0.31,0.04,0.85
+MBR,4,50,44.84,8.3,3.33,1000,19.2,667,11,0.13,0.055,0.85
+MLR-I,5.8,130,127,12.5,10,18.2,18.2,1020,80,0.13,,0.85
